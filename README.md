@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Mehdi%20Benjelloun&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IA%20%7C%20Data%20Engineering%20%7C%20Python&descSize=18&descAlignY=60" alt="Banniere Mehdi Benjelloun" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=45&repeat=true&lines=%C3%89tudiant+%C3%A0+l%27EMSI+Casablanca;Agents+IA+et+traitement+du+langage+naturel;Pipelines+Big+Data+et+Data+Engineering;Du+besoin+m%C3%A9tier+%C3%A0+la+solution+concr%C3%A8te" alt="Etudiant EMSI Casablanca - IA - Data Engineering" />
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-mehdibn09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehdibn09)
@@ -209,12 +207,20 @@ Mes projets couvrent plusieurs étapes d'une solution complète :
 
 ---
 
-## 📊 Activité GitHub
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehdibn09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=7C3AED&text_color=C9D1D9&locale=fr" alt="Statistiques GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdibn09&layout=compact&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&locale=fr" alt="Langages les plus utilisés" />
+<a href="https://github.com/mehdibn09">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mehdibn09&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&locale=fr" alt="Statistiques GitHub" />
+</a>
+<a href="https://github.com/mehdibn09?tab=repositories">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdibn09&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&locale=fr" alt="Langages les plus utilisés" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=mehdibn09&theme=tokyonight&hide_border=false&locale=fr" alt="Série de contributions GitHub" />
 
 </div>
 
