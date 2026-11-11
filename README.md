@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Mehdi%20Benjelloun&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IA%20%C2%B7%20Data%20Engineering%20%C2%B7%20Python&descSize=18&descAlignY=60" alt="Bannière Mehdi Benjelloun" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Mehdi%20Benjelloun&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IA%20%7C%20Data%20Engineering%20%7C%20Python&descSize=18&descAlignY=60" alt="Banniere Mehdi Benjelloun" />
 
-<a href="https://github.com/mehdibn09">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Étudiant+à+l'EMSI+Casablanca;Agents+IA+%26+traitement+du+langage+naturel;Pipelines+Big+Data+%26+Data+Engineering;Du+besoin+métier+à+la+solution+concrète" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=45&repeat=true&lines=%C3%89tudiant+%C3%A0+l%27EMSI+Casablanca;Agents+IA+et+traitement+du+langage+naturel;Pipelines+Big+Data+et+Data+Engineering;Du+besoin+m%C3%A9tier+%C3%A0+la+solution+concr%C3%A8te" alt="Etudiant EMSI Casablanca - IA - Data Engineering" />
 
 <br/>
 
@@ -36,7 +34,7 @@ Mes projets couvrent plusieurs étapes d'une solution complète :
 <summary><b>🤖 Intelligence Artificielle & Data Science</b></summary>
 <br/>
 
-
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=light" alt="IA" />
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
