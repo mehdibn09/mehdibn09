@@ -36,7 +36,7 @@ Mes projets couvrent plusieurs étapes d'une solution complète :
 <summary><b>🤖 Intelligence Artificielle & Data Science</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=light" alt="IA" />
+
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
